@@ -1,0 +1,16 @@
+-- Tode list
+
+-Done install and setup django
+-Done install and setup Vue 
+-include font awesome 
+-set up the base template 
+-Create django app and models for products
+-Create serializer and views for the products
+-Create simple front page (latest products)
+-View a product
+    -Create viewset in django
+    -Create Vue page for showing product 
+    -Add link to detail page
+-Set Vuex/ State
+-Make it possible to add to Create  
+    -Add functionality to Vuex
